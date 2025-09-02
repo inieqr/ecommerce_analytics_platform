@@ -119,10 +119,10 @@ python python/customer_analytics_ml.py
 
 ### Contact
 
-**Iniobong Equere** - Data Analyst & Business Intelligence Specialist  
-📧 iniobong.equere@email.com  
-💼 LinkedIn: linkedin.com/in/iniobong-equere  
-🌐 Portfolio: iniobongequere.com  
+**Iniobong Equere** - Junior Data Analyst
+📧 inieqr@email.com  
+💼 LinkedIn: linkedin.com/in/inieqr  
+🌐 Portfolio: https://bit.ly/41wLJk0
 
 ---
 
