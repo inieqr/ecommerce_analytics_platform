@@ -1,0 +1,21 @@
+{
+  "customer_base": {
+    "total_customers": 50000,
+    "active_customers": 41981,
+    "activation_rate": "84.0%"
+  },
+  "revenue": {
+    "historical_revenue": 50207402.31,
+    "predicted_revenue": 2415155763.33,
+    "total_opportunity": 2465363165.64
+  },
+  "retention_opportunity": {
+    "at_risk_customers": 1360,
+    "retention_value": 3019506.43
+  },
+  "top_segment": {
+    "name": "Big Spenders",
+    "revenue": 41169043.32,
+    "customers": 16792.0
+  }
+}
